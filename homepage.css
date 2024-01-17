@@ -185,6 +185,13 @@ hr.solid {
    padding-right: 24px;
    padding-bottom: 150px;
    padding-top: 60px;
+   line-height: 12px;
+   h3{
+    font-size: 15px;
+   }
+   p{
+    color: #808080;
+   }
 }
 footer {
     color: white;
